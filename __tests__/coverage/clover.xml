@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1592330209220" clover="3.2.0">
-  <project timestamp="1592330209220" name="All files">
-    <metrics statements="40" coveredstatements="18" conditionals="7" coveredconditionals="1" methods="20" coveredmethods="8" elements="67" coveredelements="27" complexity="0" loc="40" ncloc="40" packages="4" files="8" classes="8"/>
+<coverage generated="1592396141026" clover="3.2.0">
+  <project timestamp="1592396141026" name="All files">
+    <metrics statements="25" coveredstatements="18" conditionals="3" coveredconditionals="1" methods="13" coveredmethods="8" elements="41" coveredelements="27" complexity="0" loc="25" ncloc="25" packages="4" files="7" classes="7"/>
     <package name="src">
       <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <file name="App.js" path="D:\dev\superbid\tests-end-to-end\src\App.js">
@@ -14,25 +14,7 @@
       </file>
     </package>
     <package name="src.components.techList">
-      <metrics statements="24" coveredstatements="4" conditionals="4" coveredconditionals="0" methods="13" coveredmethods="2"/>
-      <file name="index-old.js" path="D:\dev\superbid\tests-end-to-end\src\components\techList\index-old.js">
-        <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="7" count="0" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="12" count="0" type="stmt"/>
-        <line num="16" count="0" type="stmt"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="22" count="0" type="stmt"/>
-        <line num="23" count="0" type="stmt"/>
-        <line num="27" count="0" type="stmt"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="33" count="0" type="stmt"/>
-        <line num="34" count="0" type="stmt"/>
-      </file>
+      <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
       <file name="index.js" path="D:\dev\superbid\tests-end-to-end\src\components\techList\index.js">
         <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
         <line num="8" count="4" type="stmt"/>
